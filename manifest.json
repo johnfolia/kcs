@@ -1,0 +1,1053 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Cryptiva \u2013 Cyber Security Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.7.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.7",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "3074187.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/3074187.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 164197,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-secure-technology-background_5913859.htm"
+        },
+        {
+            "filename": "security.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/security.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 175032,
+            "dimensions": [
+                1296,
+                934
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8RZDUET"
+        },
+        {
+            "filename": "security-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/security-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5872,
+            "dimensions": [
+                300,
+                301
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EU7FBU"
+        },
+        {
+            "filename": "privacy.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/privacy.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6483,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EU7FBU"
+        },
+        {
+            "filename": "certified-industry.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/certified-industry.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4982,
+            "dimensions": [
+                300,
+                301
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EU7FBU"
+        },
+        {
+            "filename": "logoo-9VAKXU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/logoo-9VAKXU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 54457,
+            "dimensions": [
+                983,
+                359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/logo-9VAKXU"
+        },
+        {
+            "filename": "logo-GR7E54.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/logo-GR7E54.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 29214,
+            "dimensions": [
+                891,
+                358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/logo-GR7E54"
+        },
+        {
+            "filename": "logoo-JQLHGD.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/logoo-JQLHGD.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 24709,
+            "dimensions": [
+                933,
+                358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/logo-JQLHGD"
+        },
+        {
+            "filename": "logo-Y7FDGX.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/logo-Y7FDGX.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 67712,
+            "dimensions": [
+                954,
+                358
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/logo-Y7FDGX"
+        },
+        {
+            "filename": "female-hacker-wearing-a-hoodie-using-a-dangerous-virus-e1615279123329.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/female-hacker-wearing-a-hoodie-using-a-dangerous-virus-e1615279123329.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 214224,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLRB4XR"
+        },
+        {
+            "filename": "layer1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/layer1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 126439,
+            "dimensions": [
+                1230,
+                616
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-OJO4YQ0"
+        },
+        {
+            "filename": "cloud.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/cloud.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10179,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "asser2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/asser2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10166,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "background-lock.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/background-lock.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 229908,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/dark-blue-security-background_1140343.htm"
+        },
+        {
+            "filename": "young-hacker-making-a-dangerous-virus-for-cyber-attacks-e1615279114966.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/young-hacker-making-a-dangerous-virus-for-cyber-attacks-e1615279114966.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 318334,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NLXZQ9W"
+        },
+        {
+            "filename": "database.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/database.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6574,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "net.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/net.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9904,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "locker.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/locker.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11760,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "data-security.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/data-security.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7997,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGXFJD"
+        },
+        {
+            "filename": "top-view-of-the-hands-of-a-programmer-on-his-laptop-e1615279059354.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/top-view-of-the-hands-of-a-programmer-on-his-laptop-e1615279059354.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 162078,
+            "dimensions": [
+                1920,
+                1176
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8NPESTS"
+        },
+        {
+            "filename": "cybercrime-through-the-internet--e1615279069227.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/cybercrime-through-the-internet--e1615279069227.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 168624,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PULKSL9"
+        },
+        {
+            "filename": "team-SMNZUJQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/team-SMNZUJQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 107811,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SMNZUJQ"
+        },
+        {
+            "filename": "team-52G3BWD.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/team-52G3BWD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 141006,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-52G3BWD"
+        },
+        {
+            "filename": "team-7UT4L65.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/team-7UT4L65.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 108153,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7UT4L65"
+        },
+        {
+            "filename": "cybercrime-cyber-security-e1615279045513.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/cybercrime-cyber-security-e1615279045513.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 265585,
+            "dimensions": [
+                1920,
+                1445
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KL4J2UG"
+        },
+        {
+            "filename": "testimonial-Q8JDNBT.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/testimonial-Q8JDNBT.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "testimonial-YV9ABZR.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/testimonial-YV9ABZR.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25367,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "testimonial-83S5W35.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/testimonial-83S5W35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "testimonial-N8572T7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/testimonial-N8572T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 29574,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N8572T7"
+        },
+        {
+            "filename": "diverse-computer-hacking-shoot-e1615279097528.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/diverse-computer-hacking-shoot-e1615279097528.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 204836,
+            "dimensions": [
+                1920,
+                1235
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PX3RPVZ"
+        },
+        {
+            "filename": "happy-hacker-after-a-cyber-attack-using-a-dangerous-malware-e1615279172197.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/happy-hacker-after-a-cyber-attack-using-a-dangerous-malware-e1615279172197.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 86767,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NLK68BZ"
+        },
+        {
+            "filename": "back-view-of-hackers-working-on-making-a-dangerous-malware-e1615279178691.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/back-view-of-hackers-working-on-making-a-dangerous-malware-e1615279178691.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 86141,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZZN243"
+        },
+        {
+            "filename": "bearded-old-hacker-wearing-a-hoodie-talking-with-young-hacker-e1615279184470.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/bearded-old-hacker-wearing-a-hoodie-talking-with-young-hacker-e1615279184470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 111746,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XBYDV8P"
+        },
+        {
+            "filename": "logo-cryptiva.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/cryptiva\/wp-content\/uploads\/sites\/53\/2021\/03\/logo-cryptiva.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 18598,
+            "dimensions": [
+                1394,
+                338
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVUJPY"
+        }
+    ]
+}
